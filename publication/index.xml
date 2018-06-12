@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Kun Li</title>
+    <link>https://kun-li.github.io/publication/</link>
+    <description>Recent content in Publications on Kun Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Kun Li</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kun-li.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Use of the ARCS model in education: A literature review</title>
+      <link>https://kun-li.github.io/publication/arcs-review/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://kun-li.github.io/publication/arcs-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enriching classroom learning through a microblogging-supported activity</title>
+      <link>https://kun-li.github.io/publication/twitter-classroom/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://kun-li.github.io/publication/twitter-classroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the massive open online course (MOOC) student experience: An examination of attitudes, motivations, and barriers</title>
+      <link>https://kun-li.github.io/publication/mooc-experience/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://kun-li.github.io/publication/mooc-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathways for affective learning in Massive Open Online Courses</title>
+      <link>https://kun-li.github.io/publication/affective-pathway/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://kun-li.github.io/publication/affective-pathway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preservice Teachers’ Intention to Adopt Technology in Their Future Classrooms</title>
+      <link>https://kun-li.github.io/publication/tech-intention/</link>
+      <pubDate>Sat, 23 Apr 2016 16:45:20 -0400</pubDate>
+      
+      <guid>https://kun-li.github.io/publication/tech-intention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogging for teaching and learning: An examination of experience, attitudes, and levels of thinking</title>
+      <link>https://kun-li.github.io/publication/blog-experience/</link>
+      <pubDate>Wed, 23 Oct 2013 17:20:35 -0400</pubDate>
+      
+      <guid>https://kun-li.github.io/publication/blog-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is social annotation an effective tool for peer assessment?</title>
+      <link>https://kun-li.github.io/publication/social-annotation/</link>
+      <pubDate>Mon, 25 Mar 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://kun-li.github.io/publication/social-annotation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selected  Talks on Kun Li</title>
+    <link>https://kun-li.github.io/talk/</link>
+    <description>Recent content in Selected  Talks on Kun Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Kun Li</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kun-li.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reconsidering instructional design with Web 2.0 technologies</title>
+      <link>https://kun-li.github.io/talk/web2-symposium/</link>
+      <pubDate>Tue, 06 Mar 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://kun-li.github.io/talk/web2-symposium/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

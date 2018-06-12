@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Kun Li</title>
+    <link>https://kun-li.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Kun Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Kun Li</copyright>
+    <lastBuildDate>Mon, 25 Mar 2013 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://kun-li.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is social annotation an effective tool for peer assessment?</title>
+      <link>https://kun-li.github.io/publication/social-annotation/</link>
+      <pubDate>Mon, 25 Mar 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://kun-li.github.io/publication/social-annotation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
